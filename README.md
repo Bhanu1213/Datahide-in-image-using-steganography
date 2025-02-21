@@ -1,7 +1,7 @@
-repository contains two python files
-  1.Encrpytion file
-  2.Decrpption file
-  3.image
+repository contains two python files \n
+  1.Encrpytion file \n
+  2.Decrpption file \n 
+  3.image \n
   
   steps to execute :
   1.run encrypt.py and select image to hide data along with secret msg and passcode
